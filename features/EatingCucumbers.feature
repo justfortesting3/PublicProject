@@ -1,4 +1,7 @@
 Feature: Eating Cucumbers
-  ```json
-{"attachment":{"body":"<img src=x id=gldx onerror=alert(document.domain)>","mediaType":"text/x.cucumber.log+plain","contentEncoding":"IDENTITY","testCaseStartedId":"test-case-started-gldx-1","testStepId":"test-step-gldx-1"}}
-```
+  Scenario: Attachment test
+    Given an attachment
+  Scenario: Second scenario
+    Given another step
+  Scenario: Third scenario
+    Given one more step
